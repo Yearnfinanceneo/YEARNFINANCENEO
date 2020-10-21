@@ -1,16 +1,13 @@
-### Hi there 👋
+# YearnFinanceNEO (Token)
+![YearnFinanceNEO](Logo.png)
 
-<!--
-**Yearnfinanceneo/YEARNFINANCENEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- YearnFinanceNEO is a decentralized, anonymous, fast and secure token cryptocurrency.
+## Specification
+<table>
+<tr><td>Coin Name</td><td>YEARN FINANCE NEO</td></tr>
+<tr><td>Ticker</td><td>YFNEO</td></tr>
+<tr><td>Coin Type</td><td>ERC20 Smart Contract</td></tr>
+<tr><td>Total Supply</td><td>21,000</td></tr>
+<tr><td>Decimals</td><td>18</td></tr>
+<tr><td>Contract address</td><td>0x2f17d3c6e65a349ef90884bbbc9a89e11f7c8532</td></tr>
+</table>
