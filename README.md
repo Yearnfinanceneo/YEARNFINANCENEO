@@ -1,10 +1,13 @@
-# YearnFinanceNEO (Token)
+# Yearn Finance Neo
 ![YearnFinanceNEO](Logo.png)
 
-- YearnFinanceNEO is a decentralized, anonymous, fast and secure token cryptocurrency.
+- Yearn Finance Neo platform innovative project DeFi 
+developed by people from the community for the community. 
+The goal of the project is to have scalability, interactions, creation 
+development aimed at obtaining a return on investment.
 ## Specification
 <table>
-<tr><td>Coin Name</td><td>YEARN FINANCE NEO</td></tr>
+<tr><td>Coin Name</td><td>Yearn Finance Neo</td></tr>
 <tr><td>Ticker</td><td>YFNEO</td></tr>
 <tr><td>Coin Type</td><td>ERC20 Smart Contract</td></tr>
 <tr><td>Total Supply</td><td>21,000</td></tr>
